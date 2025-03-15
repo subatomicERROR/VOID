@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dylib
+*.egg
+*.eggs
+dist/
+build/
+.eggs/
+*.tar.gz
+*.whl
+*.rpm
+*.deb
+
+# Virtual environment
+.qvenv/
+venv/
+env/
+*.env/
+qvenv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# .env files
+.env
+
+# If you have a compiled or packaged project
+*.egg-info/
+
+# Ignore the installed packages and any other related directories
+qvenv/
+qvenv/lib/
+qvenv/lib64/
+qvenv/pyvenv.cfg
+qvenv/bin/
+qvenv/include/
