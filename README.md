@@ -13,7 +13,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/VOID.git
+    git clone https://github.com/yourusername/Void.git
     cd VOID
     ```
 
